@@ -1,4 +1,3 @@
-## Hi there 👋
 ## 👨🏻‍💻 &nbsp;About Me
 
 - 👋 Hi, I’m @gautam aka gautam kandpal
