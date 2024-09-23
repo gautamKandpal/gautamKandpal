@@ -21,8 +21,8 @@
 
 <p align="left">
 <a href="https://github.com/gautamKandpal">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gautamKandpal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="200em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gautamKandpal&layout=compact&langs_count=8&theme=algolia"/>
+ <div> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gautamKandpal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></div>
+  <div><img height="200em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gautamKandpal&layout=compact&langs_count=8&theme=algolia"/></div></a>
 </a>
 </p>
 
