@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @gautam aka gautam kandpal
 - 👀 I’m interested in everything from microcontrollers to microservices
 - 🌱 I’m currently learning MERN stack
-- 📫 How to reach me gautamkandpal20@gmail.com || [LinkedIn:@gautamKandpal](https://www.linkedin.com/in/gautam-kandpal-702756211/)
+- 📫 How to reach me gautamkandpal778@gmail.com || [LinkedIn:@gautamKandpal](https://www.linkedin.com/in/gautam-kandpal-702756211/)
 
 ## 🛠 &nbsp;Tech Stack
 
