@@ -1,8 +1,8 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
-- 👋 Hi, I’m @gautam aka gautam kandpal
+- 👋 Hi, I’m @gautam aka Gautam Kandpal
 - 👀 I’m interested in everything from microcontrollers to microservices
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently learning MCP Servers.
 - 📫 How to reach me gautamkandpal778@gmail.com || [LinkedIn:@gautamKandpal](https://www.linkedin.com/in/gautam-kandpal-702756211/)
 
 ## 🛠 &nbsp;Tech Stack
