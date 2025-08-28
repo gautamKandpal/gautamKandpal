@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @gautam aka Gautam Kandpal
 - 👀 I’m interested in everything from microcontrollers to microservices
-- 🌱 I’m currently learning Aout MCP Servers.
+- 🌱 I’m currently learning About MCP Servers.
 - 📫 How to reach me gautamkandpal778@gmail.com || [LinkedIn:@gautamKandpal](https://www.linkedin.com/in/gautam-kandpal-702756211/)
 
 ## 🛠 &nbsp;Tech Stack
