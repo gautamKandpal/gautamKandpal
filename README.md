@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @gautam aka Gautam Kandpal
 - 👀 I’m interested in everything from microcontrollers to microservices
-- 🌱 I’m currently learning About MCP Servers.
+- 🌱 I’m currently learning About MCP Servers & RAG.
 - 📫 How to reach me gautamkandpal778@gmail.com || [LinkedIn:@gautamKandpal](https://www.linkedin.com/in/gautam-kandpal-702756211/)
 
 ## 🛠 &nbsp;Tech Stack
@@ -25,11 +25,25 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
+<!-- <p align="left">
 <a href="https://github.com/gautamKandpal">
  <div> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gautamKandpal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></div>
   <div><img height="183em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gautamKandpal&layout=compact&langs_count=8&theme=algolia"/></div></a>
 </a>
+</p> -->
+
+<p align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=gautamKandpal&show_icons=true&theme=algolia&include_all_commits=true"
+    alt="GitHub Stats"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gautamKandpal&layout=compact&langs_count=8&theme=algolia"
+    alt="Top Languages"
+  />
 </p>
+
 
 
