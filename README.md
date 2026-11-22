@@ -33,7 +33,7 @@
 </p> -->
 
 
-<p align="center">
+<p align="left">
   <img height="180em"
     src="https://github-readme-stats.vercel.app/api?username=gautamKandpal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
     alt="GitHub Stats" />
