@@ -32,18 +32,17 @@
 </a>
 </p> -->
 
+
 <p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=gautamKandpal&show_icons=true&theme=algolia&include_all_commits=true"
-    alt="GitHub Stats"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gautamKandpal&layout=compact&langs_count=8&theme=algolia"
-    alt="Top Languages"
-  />
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=gautamKandpal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
+    alt="GitHub Stats" />
+
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamKandpal&layout=compact&langs_count=8&theme=algolia"
+    alt="Top Languages" />
 </p>
+
 
 
 
